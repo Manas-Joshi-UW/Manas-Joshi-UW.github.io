@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string>RapidWeaver</string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>File References</key>
+				<dict>
+					<key>App Scope</key>
+					<true/>
+					<key>File References</key>
+					<array/>
+				</dict>
+				<key>Minimum Application Version</key>
+				<string>6.0</string>
+				<key>PublishingManifest</key>
+				<dict/>
+				<key>Site Resources</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGcHFYJHZlcnNpb25YJG9iamVj
+				dHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIExQVHyIp
+				LTE1OT1FSk9TVFhbX2Noa25VJG51bGzTCQoLDA8SV05T
+				LmtleXNaTlMub2JqZWN0c1YkY2xhc3OiDQ6AAoADohAR
+				gASADIAYWGRhdGFiYXNlVG5vZGXVCxYXGBkaGxwdHl5J
+				ZGVudGlmaWVyIE1hcFhQYWdlIE1hcFhOb2RlIE1hcFlS
+				ZXNvdXJjZXOAC4AHgAqACYAF0goLICGggAbSIyQlJlok
+				Y2xhc3NuYW1lWCRjbGFzc2VzXE5TTXV0YWJsZVNldKMl
+				JyhVTlNTZXRYTlNPYmplY3TTCQoLKissoKCACNIjJC4v
+				XxATTlNNdXRhYmxlRGljdGlvbmFyeaMuMChcTlNEaWN0
+				aW9uYXJ50wkKCzIzLKCggAjTCQoLNjcsoKCACNIjJDo7
+				XxASUldSZXNvdXJjZURhdGFiYXNlojwoXxASUldSZXNv
+				dXJjZURhdGFiYXNl1As+P0BBQkNDWENoaWxkcmVuVlBh
+				cmVudF8QElJlcHJlc2VudGVkIE9iamVjdIAUgA2AAIAA
+				0goLRkmiR0iADoAVgBPUCz4/QEFMEU6AFIASgAyAD9JQ
+				C1FSVE5hbWWAEIARXxAPVW50aXRsZWQgRm9sZGVy0iMk
+				VVZcUldTaXRlRm9sZGVyolcoXFJXU2l0ZUZvbGRlctIK
+				C1lJoIAT0iMkXF1eTlNNdXRhYmxlQXJyYXmjXF4oV05T
+				QXJyYXnSIyRgYV8QEFJXU291cmNlTGlzdE5vZGWiYihf
+				EBBSV1NvdXJjZUxpc3ROb2Rl1As+P0BBZRFngBSAF4AM
+				gBbSUAtRUoAQgBHSCgtsSaCAE9IjJDBvojAoXxAPTlNL
+				ZXllZEFyY2hpdmVy0XJzVHJvb3SAAQAIABEAGgAjAC0A
+				MgA3AFMAWQBgAGgAcwB6AH0AfwCBAIQAhgCIAIoAkwCY
+				AKMAsgC7AMQAzgDQANIA1ADWANgA3QDeAOAA5QDwAPkB
+				BgEKARABGQEgASEBIgEkASkBPwFDAVABVwFYAVkBWwFi
+				AWMBZAFmAWsBgAGDAZgBoQGqAbEBxgHIAcoBzAHOAdMB
+				1gHYAdoB3AHlAecB6QHrAe0B8gH3AfkB+wINAhICHwIi
+				Ai8CNAI1AjcCPAJLAk8CVwJcAm8CcgKFAo4CkAKSApQC
+				lgKbAp0CnwKkAqUCpwKsAq8CwQLEAskAAAAAAAACAQAA
+				AAAAAAB0AAAAAAAAAAAAAAAAAAACyw==
+				</data>
+				<key>SiteAttributes</key>
+				<dict>
+					<key>AddCopyrightMailTo</key>
+					<true/>
+					<key>ConsolidateCSSFiles</key>
+					<true/>
+					<key>ConsolidateCommonFilesMode</key>
+					<integer>0</integer>
+					<key>ContactText</key>
+					<string></string>
+					<key>CopyrightText</key>
+					<string></string>
+					<key>CopyrightTextUsed</key>
+					<true/>
+					<key>CruftlessLinksEnabled</key>
+					<true/>
+					<key>DirectoryIndexFilenames</key>
+					<array>
+						<string>index.html</string>
+						<string>index.htm</string>
+						<string>index.php</string>
+					</array>
+					<key>EmailAddress</key>
+					<string></string>
+					<key>FavIconUsed</key>
+					<false/>
+					<key>LogoUsed</key>
+					<false/>
+					<key>ObfuscateEmailAddress</key>
+					<true/>
+					<key>PreviewAfterExportRelativeToBaseURL</key>
+					<false/>
+					<key>PublishingSettingsConfigured</key>
+					<false/>
+					<key>ShowBreadcrumbTrail</key>
+					<false/>
+					<key>ShowTidiedCode</key>
+					<false/>
+					<key>SloganText</key>
+					<string></string>
+					<key>SloganUsed</key>
+					<true/>
+					<key>ThemeName</key>
+					<string>Allegro</string>
+					<key>TitleText</key>
+					<string></string>
+					<key>TitleTextUsed</key>
+					<true/>
+					<key>UserAgentResizingPreset</key>
+					<integer>0</integer>
+					<key>WantsXMLSiteMap</key>
+					<true/>
+					<key>WebClipIconUsed</key>
+					<false/>
+					<key>globalCSS</key>
+					<string>
+.jumbotron{
+    height: 100vh;
+    margin-bottom: 0px;
+    width: 100vw;
+    color: white;
+    background-color: aquamarine;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)),url(20150702_112846.jpg) no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+-webkit-filter: grayscale(30%);
+  -moz-filter: grayscale(30%);
+  -o-filter:grayscale(30%);
+  -ms-filter: grayscale(30%);
+  filter:grayscale(30%);  
+    top: auto;
+    background: cover;
+}
+
+.jumbotron h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+.jumbotron p{
+    font-size: 25px;
+    text-align: center;
+    
+}
+
+.navbar{
+    background-color: rgba(0,0,0,0.9);
+    font-size: 20px;
+    color:white;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    width:100%;
+    font-family: Advent Pro Regular;
+}</string>
+					<key>globalHeader</key>
+					<string>&lt;!DOCTYPE html&gt;
+&lt;html lang = "en"&gt;
+&lt;head&gt; 
+&lt;meta charset="utf-8"&gt;
+&lt;link type="text/css" rel="stylesheet" href="normalize.css" /&gt;
+&lt;link href="/bootstrap.css" rel="stylesheet"&gt; 
+&lt;link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"&gt;    
+&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"&gt;&lt;/script&gt;
+&lt;link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+&lt;link rel='stylesheet' href='animate.css'&gt; 
+&lt;link rel='stylesheet' type='text/css' href='Manas_main.css'/&gt;
+&lt;link href="http://fonts.googleapis.com/css?family=Advent+Pro+Regular" rel="stylesheet" type="text/css"&gt;
+&lt;title&gt;Pickering Reading Circle&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    
+&lt;div class="navbar navbar-default navbar-fixed-top"&gt;
+    &lt;div class ="container menu"&gt;
+    &lt;button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse"&gt;
+        &lt;span class="icon-bar"&gt;&lt;/span&gt;
+        &lt;span class="icon-bar"&gt;&lt;/span&gt;
+        &lt;span class="icon-bar"&gt;&lt;/span&gt;
+    &lt;/button&gt;    
+    &lt;div class="navHeaderCollapse navbar-collapse collapse"&gt;
+        &lt;ul class="nav navbar-nav navbar-right"&gt;
+            &lt;li style="background-color:rgba(0,0,0,0.3)"&gt;&lt;a href="index.html" style="color:white"&gt;Home&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="PickReadsAboutUs.html"&gt;About Us&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Side Projects&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;About Me&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="#"&gt;Skills&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class ="jumbotron" style=""&gt;    
+&lt;h1&gt;MANAS JOSHI&lt;/h1&gt;
+&lt;p&gt;I am a student at the University of Waterloo. I intend to learn Computer Science and Applied Math with an option in Engineering(specifically Communication and Control).&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+    ss
+    
+    
+    
+    
+    
+    
+    
+    
+    
+&lt;/p&gt;   
+  
+    
+    
+    
+    
+&lt;p&gt;
+  ss
+    s
+    s
+    s
+    s
+    s
+&lt;/p&gt;
+    
+&lt;p&gt;
+      s
+    s
+    s
+    s
+    s
+    
+    
+&lt;/p&gt;
+    
+&lt;p&gt;
+    
+    s
+    s
+    s
+    s
+    s
+&lt;/p&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;</string>
+					<key>globalJavascript</key>
+					<string></string>
+					<key>globalPrefix</key>
+					<string>&lt;head&gt; 
+&lt;meta charset="utf-8"&gt;
+&lt;link type="text/css" rel="stylesheet" href="normalize.css" /&gt;
+&lt;link href="/bootstrap.css" rel="stylesheet"&gt; 
+&lt;link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"&gt;    
+&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"&gt;&lt;/script&gt;
+&lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"&gt;&lt;/script&gt;
+&lt;link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+&lt;link rel='stylesheet' href='animate.css'&gt; 
+&lt;link rel='stylesheet' type='text/css' href='Manas_main.css'/&gt;
+&lt;link href="http://fonts.googleapis.com/css?family=Advent+Pro+Regular" rel="stylesheet" type="text/css"&gt;
+&lt;title&gt;Pickering Reading Circle&lt;/title&gt;
+&lt;/head&gt;
+</string>
+					<key>hasChangedGlobalCSS</key>
+					<true/>
+					<key>hasChangedGlobalHeader</key>
+					<true/>
+					<key>hasChangedGlobalJavascript</key>
+					<true/>
+					<key>hasChangedGlobalPrefix</key>
+					<true/>
+					<key>projectNotes</key>
+					<string></string>
+					<key>putGoogleAnalyticsInHead</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>DefaultPageAttributes</string>
+				<string>Pages</string>
+				<string>QuickLook</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver Document</string>
+</dict>
+</plist>
