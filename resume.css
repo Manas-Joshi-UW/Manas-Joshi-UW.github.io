@@ -31,32 +31,32 @@ h3::selection{
 
 }
 .nav{
-    background-color: rgba(0,0,0,0.75);
-    font-size: 20px;
-    color:white;
-    margin-bottom: 0px;
-    text-align: center;
-    font-weight: bold;
-    width:100%;
-    font-family: 'lato',sans-serif;
+   background-color: rgba(0,0,0,0.75);
+   font-size: 1.2em;
+   color:white;
+   margin-bottom: 0px;
+   text-align: center;
+   font-weight: bold;
+   width:100%;
+   font-family: 'lato',sans-serif;
 }
 .nav a{
-    color:white;
+   color:white;
 }
 .nav.navbar-nav.navbar-left>li>a:hover,
 .nav.navbar-nav.navbar-left>li>a:focus{
-    color:white;
-    background-color: rgba(30,175,176,0.4);
+   color:white;
+   background-color: rgba(30,175,176,0.4);
 }
 
 .navbar-toggle{
-    border:2px;
-    border-color:black;
-    background-color:rgba(2,175,176,0.8);
+   border:2px;
+   border-color:black;
+   background-color:rgba(2,175,176,0.8);
 }
 
 .nav.navbar-nav.navbar-left>li>a::selection{
-    background-color:rgba(2,175,176,0.6);
+   background-color:rgba(2,175,176,0.6);
 }
 #addr{
   font-family: 'lato',sans-serif;
