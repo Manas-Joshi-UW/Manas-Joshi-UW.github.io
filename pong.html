@@ -1,7 +1,7 @@
 
 <html>
 <canvas id="gameCanvas" width="800"  height="600"></canvas>
-    
+
 <script>
  var canvas;
  var canvascontext;
@@ -33,7 +33,7 @@ function OnMouseClick(evt){
         win = false;
     }
 }
-window.onload = function () { 
+window.onload = function () {
 
 console.log("Hellow Woeld");
 console.log(r);
@@ -53,22 +53,22 @@ canvas.addEventListener('mousedown',OnMouseClick);
 canvas.addEventListener('mousemove', function(evt){
         var mousePos = MousePos(evt);
         topPaddle1y = mousePos.y-Paddle_Height/2;
-   
-        
-    }); 
+
+
+    });
 }
 
 
 function makeColor(){
-            
+
         r=Math.floor((Math.random() * 255) + 1);
             b=Math.floor((Math.random() * 255) + 1);
             g=Math.floor((Math.random() * 255) + 1);
             rstring=r.toString();
             bstring=b.toString();
-            gstring=g.toString(); 
-           
-    
+            gstring=g.toString();
+
+
 }
 function MousePos (evt){
     var rect = canvas.getBoundingClientRect();
@@ -78,8 +78,8 @@ function MousePos (evt){
     return {
       x: Xpos,
       y: Ypos
-    };   
-} 
+    };
+}
 function resetGame(){
     ballX=canvas.width/2;
     ballY=canvas.height/2;
@@ -95,8 +95,8 @@ function paddle2AI(){
         topPaddle2y+=8;
     }
 }
-    
-    
+
+
 function moveEverything(){
     paddle2AI();
     ballX+=ballspeedX;
@@ -111,7 +111,7 @@ function moveEverything(){
         var deltaY=ballY - (topPaddle1y+Paddle_Height/2);
         ballspeedY = deltaY * 0.35;
         makeColor();
-            
+
         }
     }
     else if(ballX==canvas.width-10){
@@ -129,7 +129,6 @@ function moveEverything(){
         resetGame();
         keepScore(p1score);
         makeColor();
-
     }
     else if(ballY>canvas.height){
         ballspeedY=-ballspeedY;
@@ -148,11 +147,11 @@ function moveEverything(){
     }
 
 
-    
- 
- }   
+
+
+ }
 function drawShapes() {
-    
+
 
 // Next line draws the black background//
 colorRect(0,0,canvas.width,canvas.height,'black'); // call to a function.
@@ -169,7 +168,7 @@ if(win){
     showWinScreen();
     return;
 }
-// These few lines draw the circle    
+// These few lines draw the circle
 col="rgba("+rstring+","+gstring+","+bstring+","+1;
 canvascontext.fillStyle=col;
 canvascontext.beginPath();
@@ -181,7 +180,7 @@ canvascontext.fill();
 
 colorRect(10,topPaddle1y,10,Paddle_Height,'white');
 colorRect(canvas.width-20,topPaddle2y,10,Paddle_Height,'white');
-    
+
 // This draws the net
 for (i=0;i<canvas.height;i+=50){
     colorRect(canvas.width/2,i,2,40,'white');
@@ -189,7 +188,7 @@ for (i=0;i<canvas.height;i+=50){
 // End of net code.
 
 }
-    
+
 function colorRect(leftX,topY,width,height,drawColor){
 canvascontext.fillStyle=drawColor;
 canvascontext.fillRect(leftX,topY,width,height);
