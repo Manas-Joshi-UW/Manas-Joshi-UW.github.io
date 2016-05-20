@@ -1,8 +1,4 @@
-body {
-  border-style: solid;
-  border: 15px;
-  border-color: red;
-}
+
 p::selection{
    background-color:rgba(2,175,176,0.6);
 }
@@ -122,4 +118,7 @@ ul>li>p{
   font-size: 17px;
   font-family: 'lato',sans-serif;
 padding: 30px;
+}
+.nav.navbar-nav.navbar-left>li{
+    width:25vw;
 }
