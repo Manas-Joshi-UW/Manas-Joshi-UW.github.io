@@ -38,6 +38,7 @@ h3::selection{
 }
 .nav a{
    color:white;
+   font-size: 16pt;
 }
 .nav.navbar-nav.navbar-left>li>a:hover,
 .nav.navbar-nav.navbar-left>li>a:focus{
