@@ -35,7 +35,6 @@ function OnMouseClick(evt){
 }
 window.onload = function () {
 
-console.log("Hellow Woeld");
 console.log(r);
 console.log(g);
 console.log(b);
@@ -105,8 +104,10 @@ function moveEverything(){
     showWinScreen();
     return;
     }
-     if(ballX==10){
-        if(ballY>(topPaddle1y) && ballY<(topPaddle1y+Paddle_Height)){
+     if(ballX==15){
+         console.log("At 15: Ball Y is at pos: "+ ballY);
+         console.log()
+        if(ballY - ballspeedY>(topPaddle1y) && ballY - ballspeedY<(topPaddle1y+Paddle_Height)){
         ballspeedX=-ballspeedX;
         var deltaY=ballY - (topPaddle1y+Paddle_Height/2);
         ballspeedY = deltaY * 0.35;
@@ -114,7 +115,7 @@ function moveEverything(){
 
         }
     }
-    else if(ballX==canvas.width-10){
+    else if(ballX==canvas.width-15){
         if(ballY>(topPaddle2y) && ballY<(topPaddle2y+Paddle_Height)){
          var deltaY=ballY - (topPaddle2y+Paddle_Height/2);
         ballspeedY = deltaY * 0.25;
