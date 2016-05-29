@@ -104,7 +104,7 @@ function moveEverything(){
     showWinScreen();
     return;
     }
-     if(ballX==15){
+     if(ballX==10){
          console.log("At 15: Ball Y is at pos: "+ ballY);
          console.log()
         if(ballY - ballspeedY>(topPaddle1y) && ballY - ballspeedY<(topPaddle1y+Paddle_Height)){
@@ -115,7 +115,7 @@ function moveEverything(){
 
         }
     }
-    else if(ballX==canvas.width-15){
+    else if(ballX==canvas.width-10){
         if(ballY>(topPaddle2y) && ballY<(topPaddle2y+Paddle_Height)){
          var deltaY=ballY - (topPaddle2y+Paddle_Height/2);
         ballspeedY = deltaY * 0.25;
