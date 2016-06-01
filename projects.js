@@ -6,11 +6,7 @@ $(document).ready(function(){
  $(".card1, .card2, .card3").hover(function(){
     var card = $(this);
    card.css({
-    "background-color": "rgba(0,0,0,0.3)",
-    "border": "3px",
-    "border-style": "solid",
-    "border-color":"rgba(2,175,176,0.6)"});
-
+    "background-color": "rgba(0,0,0,0.3)"});
 },function(){
    var card = $(this);
    card.css({"background-color": "white","border": "5px"});
