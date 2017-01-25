@@ -3,7 +3,7 @@ $(document).ready(function(){
  var globalBoxName;
 
  // hover on card function
- $(".card1, .card2, .card3").hover(function(){
+ $(".card1, .card2, .card3, .card4, .card5").hover(function(){
     var card = $(this);
    card.css({
     "background-color": "rgba(0,0,0,0.3)"});
@@ -13,7 +13,7 @@ $(document).ready(function(){
  });
 
  // click on card/open box function
- $(".card1,.card2, .card3").click(function(){
+ $(".card1,.card2, .card3, .card4, .card5").click(function(){
     var className = $(this).attr('class');
     var boxNum = className.substring(sLengthofCard);
     globalBoxName = ".box"+boxNum;
